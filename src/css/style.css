@@ -89,3 +89,23 @@ main .personagem .imagem {
     transform: scale(1.2);
     box-shadow: 0 0 10px #d9d9d9;
 }
+
+.botoes .botao.cyberstorm.selecionado {
+    box-shadow: 0 0 10px #47ffc5;
+}
+
+.botoes .botaocodepixie.selecionado {
+    box-shadow: 0 0 10px #9747ff;
+}
+
+.botoes .botao.hexblade.selecionado {
+    box-shadow: 0 0 10px #ffa947;
+}
+
+.botoes .botao.neonpulse.selecionado {
+    box-shadow: 0 0 10px #e4309a;
+}
+
+.botoes .botao.codebreaker.selecionado {
+    box-shadow: 0 0 10px #fff047;
+}
