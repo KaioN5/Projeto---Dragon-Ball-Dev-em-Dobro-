@@ -96,7 +96,7 @@ main .personagem .imagem {
   box-shadow: 0 0 10px #47ffc5;
 }
 
-.botoes .botaocodepixie.selecionado {
+.botoes .botao.codepixie.selecionado {
   box-shadow: 0 0 10px #9747ff;
 }
 
